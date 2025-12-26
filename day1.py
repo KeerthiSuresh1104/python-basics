@@ -3,7 +3,7 @@ print("my name is keerthi")
 
 #program 2: even or odd
 num=10
-if num%2==o:
+if num%2==0:
      print("even")
 else:
       print("odd")
