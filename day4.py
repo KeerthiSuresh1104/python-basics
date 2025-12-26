@@ -35,7 +35,7 @@ print("vowel count:",count)
 #Find largest number in a list 
 
 nums=[23,56,78,90]
-largest=num[0]
+largest=nums[0]
 
 for n in nums:
   if n>largest:
